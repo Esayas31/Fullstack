@@ -3,6 +3,13 @@ body{
     padding: 10px;
     margin:15px;
 }
+html{
+    scroll-behavior: smooth;
+}
+section{
+    width: 100px;
+    height: 100vh;
+}
 h1{
     color: blue;
 }
